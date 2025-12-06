@@ -1,0 +1,43 @@
+meta:
+  name: Leo Timemrmans Brand
+  link: https://www.leotimmermans.nl/
+
+logo: "www/logo-black.svg"  # Vervang door het juiste pad
+
+color:
+  palette:
+    white: "#FFFFFF"
+    black: "#121212"
+    navy: "#1F3A5F"      # Professional primary (midpoint navy)
+    slate: "#5B6770"     # Neutral for secondary text
+    sky: "#3AA0C6"       # Clean info accent (teal-cyan midpoint)
+    emerald: "#2F8F62"   # Positive/success
+    amber: "#FFB020"     # Warning
+    crimson: "#C23A3A"   # Danger
+    gray-100: "#F6F7F9"  # Light background wells
+    gray-900: "#1A1A1A"  # Dark text alternative
+    blue: navy           # Bootstrap alias
+    teal: sky            # Bootstrap alias
+    green: emerald       # Bootstrap alias
+    yellow: amber        # Bootstrap alias
+    red: crimson         # Bootstrap alias
+  foreground: black
+  background: white
+  primary: navy          # Links, buttons, accents
+  secondary: slate
+
+  success: emerald
+  info: teal
+  warning: amber
+  danger: red
+
+  brand: navy
+  text: black
+
+typography:
+  fonts:
+    - family: Work Sans
+      source: google
+  base: Work Sans
+  heading: Work Sans
+  body: Work Sans
