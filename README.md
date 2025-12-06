@@ -1,3 +1,1 @@
-# zowonen_demo
-
-This repository contains a demonstration of the Zowonen project, showcasing its features and functionalities.
+# Scenario Analyse Demo voor vergelijking CV vs Warmtepomp
